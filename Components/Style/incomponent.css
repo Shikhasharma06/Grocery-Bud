@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+      
+}
+#input{
+    border-radius: 0.3rem 0 0 0.3rem; 
+    border-color: cadetblue;
+}
+#btn{
+    cursor: pointer;
+    padding: 0.3rem;
+    border-radius:0 0.3rem 0.3rem 0;
+    border-color: cadetblue;
+    background-color: cadetblue;
+    font-weight: bolder;
+    color: white;
+}
