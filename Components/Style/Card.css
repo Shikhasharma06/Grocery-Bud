@@ -1,0 +1,8 @@
+.card-item{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sound-container, .delete-container{
+    cursor: pointer;
+}
